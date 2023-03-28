@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hey there, I am Tayyaba Imam👋<br>💗 My interest lies in Full-stack Development, Machine Learning and AI.<br>✨ I am a content writer and a programmer.<br>💻 I'm currently learning frontend web development with React.<br>👩‍🚀 My passion is astronomy and I dream of making an impact in the field of Space Science.<br>🪐Check out my Codepen<br><br>🔭 I’m looking to collaborate on development projects<br><br>📫 How to reach me: tayyaba.imam@gmail.com
+Hey there, I am Tayyaba Imam👋<br>💗 My interest lies in Full-stack Development, Machine Learning and AI.<br>✨ I am a content writer and a programmer.<br>💻 I'm currently learning frontend web development with React.<br>👩‍🚀 My passion is astronomy and I dream of making an impact in the field of Space Science.<br>🪐Check out my Codepen<br>🔭 I’m looking to collaborate on web development projects<br>📫 How to reach me: tayyaba.imam@gmail.com
 
 
 ## 🌐 Socials:
