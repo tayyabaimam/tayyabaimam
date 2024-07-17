@@ -1,11 +1,11 @@
 
 
 # 💫 About Me:
-Hey there, I am Tayyaba Imam👋<br>💗 My interest lies in Frontend Development, Machine Learning and AI.<br>💻 I'm currently learning frontend web development with React.<br>👩‍🚀 My passion is astronomy and I dream of making an impact in the field of Space Science.<br>🔭 I’m looking to collaborate on web development projects<br>📫 How to reach me: tayyaba.imam@gmail.com
+Hey there, I am Tayyaba Imam👋<br>💗 My interest lies in FullStack Development, and Machine Learning.<br>💻 I'm currently working as a Software Engineert.<br>👩‍🚀 My passion is astronomy and I dream of making an impact in the field of Space Science.<br>🔭 📫 How to reach me: tayyaba.imam@gmail.com
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayyabaimam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabaimam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tayyaba.imam) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tayyaba_imam) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayyabaimam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabaimam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tayyaba.imam)
 
 
 # 💻 Tech Stack:
