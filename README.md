@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hey there, I am Tayyaba Imam👋<br>💗 My interest lies in FullStack Development, and Machine Learning.<br>💻 I'm currently working as a Software Engineert.<br>👩‍🚀 My passion is astronomy and I dream of making an impact in the field of Space Science.<br>🔭 📫 How to reach me: tayyaba.imam@gmail.com
+Hey there, I am Tayyaba Imam👋<br>💗 My interest lies in FullStack Development, and Machine Learning.<br>💻 I'm currently working as a Software Engineer.<br>👩‍🚀 My passion is astronomy and I dream of making an impact in the field of Space Science.<br>🔭 📫 How to reach me: tayyaba.imam@gmail.com
 
 
 ## 🌐 Socials:
