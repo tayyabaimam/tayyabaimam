@@ -1,7 +1,7 @@
 
 
 #  About Me:
-Hey there, this is Tayyaba <br> I like solving problems.<br> I'm currently working as a Software Engineer.<br>👩‍🚀 My passion is astronomy and I dream of making an impact in the field of Space Science.<br> How to reach me: tayyaba.imam@gmail.com
+Hey there, this is Tayyaba <br> I'm currently working as a Software Engineer.<br>I like solving problems.<br> Astronomy intrigues me.<br> How to reach me: tayyaba.imam@gmail.com
 
 
 ## 🌐 Socials:
